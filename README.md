@@ -1,4 +1,4 @@
-# Google-play-store-applications-Rating-comparison
+# Google-play-store-applications-Rating-comparison (Data collected from Android playstore (Feb 2019) ).
 
 In this project i am trying to plot:-
   1. Probability of Different Ratings of Application.
